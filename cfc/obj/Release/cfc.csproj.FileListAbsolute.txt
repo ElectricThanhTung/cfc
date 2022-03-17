@@ -1,0 +1,8 @@
+C:\Users\elect\Desktop\cfc\cfc\bin\Release\cfc.exe.config
+C:\Users\elect\Desktop\cfc\cfc\bin\Release\cfc.exe
+C:\Users\elect\Desktop\cfc\cfc\bin\Release\cfc.pdb
+C:\Users\elect\Desktop\cfc\cfc\obj\Release\cfc.csproj.AssemblyReference.cache
+C:\Users\elect\Desktop\cfc\cfc\obj\Release\cfc.csproj.SuggestedBindingRedirects.cache
+C:\Users\elect\Desktop\cfc\cfc\obj\Release\cfc.csproj.CoreCompileInputs.cache
+C:\Users\elect\Desktop\cfc\cfc\obj\Release\cfc.exe
+C:\Users\elect\Desktop\cfc\cfc\obj\Release\cfc.pdb
